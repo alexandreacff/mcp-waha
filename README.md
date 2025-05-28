@@ -49,5 +49,5 @@ Send a WhatsApp message through WAHA server.
 
 ## Images
 
-![](images/nome.png)
-![](images/numero.png)
+![](images/claude_1.jpeg)
+![](images/claude_2.jpeg)
